@@ -1,1 +1,53 @@
-[{"h2":"How to contribute"},{"ol":["Fork the project","Create your branch","Raise a pull request"]}]
+[
+    {
+        "content": "cpms",
+        "childrens": [
+            {
+                "content": "首页数据",
+                "finish": true
+            },
+            {
+                "content": "设备报表",
+                "finish": false
+            },
+            {
+                "content": "单独报表",
+                "finish": false
+            },
+            {
+                "content": "设备调试",
+                "finish": false
+            }
+        ]
+    },
+    {
+        "content": "ARCH TO GO",
+        "childrens": [
+            {
+                "content": "快速选择壁纸",
+                "finish": false
+            },
+            {
+                "content": "后台记录clash代理总流量",
+                "finish": false
+            },
+            {
+                "content": "把开放本地文件加入dwm的默认google-chrome打开方式",
+                "finish": false
+            },
+            {
+                "content": "VSCODE环境调整",
+                "childrens": [
+                    {
+                        "content": "代码格式化有问题",
+                        "finish": false
+                    },
+                    {
+                        "content": "快捷键有问题",
+                        "finish": false
+                    }
+                ]
+            }
+        ]
+    }
+]
